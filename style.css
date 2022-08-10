@@ -36,3 +36,16 @@ body{
     right: 79%;
     border-radius: 75px 75px 0 0;
 }
+footer {
+    font-size: 18px;
+    padding: 10px;
+    text-align: center;
+}
+footer a {
+  text-decoration: none;
+  color: #536DFE;
+}
+footer a:hover {
+  text-decoration: underline;
+  color: #000
+}
